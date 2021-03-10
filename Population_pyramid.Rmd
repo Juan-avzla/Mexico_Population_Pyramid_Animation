@@ -1,5 +1,14 @@
+---
+title: "Population Pyramid Animation"
+author: "AVzla501"
+date: "26/2/2021"
+output:
+    md_document:
+    variant: markdown_github
+---
 
 Los datos de la población de México fueron adquiridos a partir del [idbr package for R](https://github.com/walkerke/idbr), que permite el acceso a indicadores demográficos del [United States Census: International Database (IDB)](https://www.census.gov/data/developers/data-sets/international-database.html) y descargarlos en formato de datasets en R. En el caso de México, los datos de población están disponibles desde 1980 a 2100 (proyectado). 
+
 
 
 ##### Instalar paquetes/Cargar librerias

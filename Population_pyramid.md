@@ -160,5 +160,5 @@ saveGIF({
 ```
 
 <p align = 'center'>
-<img src = 'grafico' />
+<img src = 'https://github.com/Juan-avzla/Mexico_Population_Pyramid_Animation/blob/main/Figuras/mexico-pyramid-style1.gif' />
 </p>
